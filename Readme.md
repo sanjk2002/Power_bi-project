@@ -1,4 +1,4 @@
-# walmart data
+# Walmart sale analysis
 
 ## **Key insights**
 
