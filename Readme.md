@@ -6,7 +6,6 @@ This repository highlights my data analysis and visualization projects using Pow
 
 ## Project
 
-[Walmart sales analysis](/Walmart/Readme.md)
+### [Walmart sales analysis](/Walmart/Readme.md)
 
 A dynamic dashboard that provides insights into customer behavior, product sales performance, and discount effectiveness. It features visually engaging charts and slicers for data filtering and exploration.
-/test

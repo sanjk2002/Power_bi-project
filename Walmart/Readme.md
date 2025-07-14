@@ -1,6 +1,8 @@
 # Walmart sale analysis
 
-## Excuetive summary
+## Executive Summary
+
+A Walmart sales analysis of 100,000 records from 2024 to 2025 reveals electronics as the top revenue category. Female and younger shoppers show strong preferences for home (8.35%) and beauty (8.60%), while male and other gender customers favor electronics (8.57%). Beauty and Clothing show high repeat purchase rates. Discounts boost sales and product ratings highlight top performers like headphones and cookware, with concerns noted for T-shirts and face cream.
 
 ![Walmart sales analysis dashbord](/Walmart/Walmart%20dashboard.png)
 
@@ -16,15 +18,13 @@
 
 ### Customer Behavior Insights
 
-Female customers predominantly purchase **Home and Beauty products.** Male customers show a preference for **Electronics**, while customers identifying as Other primarily buy **Electronics and Clothing.**
+- Female customers predominantly purchase **Home and Beauty products.** Male customers show a preference for **Electronics**, while customers identifying as Other primarily buy **Electronics and Clothing.**
 
-Age-based trends indicate that younger customers **(18–24) favor Home and Electronics**, the mid-age group (25–38) focuses on Clothing and Beauty, and older customers (39–60) tend to prefer Home and Electronics.
+- Age-based trends:
 
-Age-based trends:
-
-- younger customers **(18–24) favor Home and Electronics**,
-- the mid-age group (25–38) focuses on Clothing and Beauty
-- older customers (39–60) tend to prefer Home and Electronics.
+  - younger customers **(18–24) favor Home and Electronics**,
+  - the mid-age group (25–38) focuses on Clothing and Beauty
+  - older customers (39–60) tend to prefer Home and Electronics.
 
 ### Customer Loyalty & Repetition
 
